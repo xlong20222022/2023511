@@ -1,6 +1,5 @@
-# 2023511
-3D game play
-play one the tomrrotw 
-mya you can  play 
-they   are one 3d 
-we all layer
+Ready for the #LineaVoyage? 👀
+
+6 weeks, 10 waves, and 10 core tasks - with 40+  dapps to choose from, you decide your journey! No need to interact with them all.🚀
+
+Get ready to explore DeFi like never before✨
