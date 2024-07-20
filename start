@@ -48,3 +48,7 @@ jobs:
 
       - name: Validate Dependencies
         run: pnpm depcheck
+shenme
+dali
+manlianxiaoshi
+meiren
